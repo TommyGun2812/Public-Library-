@@ -5,4 +5,5 @@ In this REPO I'll be uploading what I think are great engineering books, mainly 
 * Deep Learning
 * Computer Science 
 * Robotics
-* Conputer Vision
+* Computer Vision
+* Math
