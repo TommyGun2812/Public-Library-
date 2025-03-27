@@ -7,3 +7,4 @@ In this REPO I'll be uploading what I think are great engineering books, mainly 
 * Robotics
 * Computer Vision
 * Math
+* Technological philosophy (just a little stuff)
